@@ -1,5 +1,5 @@
 var slider_img = document.querySelector('.slider-img');
-var images = ['a.jpg', 'b.jpg', 'c.jpg', 'd.jpg', 'e.jpg'];
+var images = ['a.jpg', 'b.jpg', 'e.jpg'];
 var i = 0; // current image index
 
 // Function to display the previous image
